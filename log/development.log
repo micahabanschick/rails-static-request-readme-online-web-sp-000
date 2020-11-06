@@ -830,3 +830,10 @@ Processing by StaticController#about as HTML
 Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 104.246.125.12 at 2020-11-06 18:25:20 +0000
+Processing by StaticController#about as HTML
+  Rendering static/about.html.erb
+  Rendered static/about.html.erb (0.5ms)
+Completed 200 OK in 4ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
